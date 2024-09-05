@@ -1,1 +1,1 @@
-containernetworking/cni:v3.22.0
+FROM containernetworking/cni:v3.22.0
